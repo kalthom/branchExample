@@ -11,6 +11,7 @@ using namespace std;
         string s;
         cin>>s;
         cout << "He, " << s << endl;
+        cout << "Heooo, " << s << endl;
       
        
       
